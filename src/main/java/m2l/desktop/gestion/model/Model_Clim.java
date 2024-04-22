@@ -25,7 +25,7 @@ public class Model_Clim {
         try
         {
             //configuration de la base de données
-            String url1 = "jdbc:mysql://localhost:3337/" +
+            String url1 = "jdbc:mysql://localhost:3306/" +
                     "sitem2l?&useJDBCCompliantTimezoneShift=true" +
                     "&useLegacyDatetimeCode=false&serverTimezone=UTC";
             //utilisateur pour connexion à la BDD
